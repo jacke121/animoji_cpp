@@ -1,3 +1,3 @@
 # animoji_cpp
 cpp nnpack
-android project on win
+android project on win/linux
